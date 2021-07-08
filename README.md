@@ -8,5 +8,5 @@
     />
   </a>
   <br />
-  <i>React-Star-Rating</i>
+<!--   <i>React-Star-Rating</i> -->
 </p>
